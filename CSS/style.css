@@ -29,7 +29,7 @@ body {
   }
   
   .hero {
-    background: url('../img/gym-banner.jpg') center/cover no-repeat;
+    background: url('/Gym/img/walp.jpg') center/cover no-repeat;
     color: white;
     padding: 100px 20px;
     text-align: center;
